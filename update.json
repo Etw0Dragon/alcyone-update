@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "backend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.2/alcyone-backend.enc",
-  "backend_sha256": "4a4e336f19b0a7c5d3066d7ee0301c8f5b9c800a48336620bae78b6b272b0771",
-  "frontend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.2/frontend.tar.gz.enc",
+  "version": "1.0.3",
+  "backend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.3/alcyone-backend.enc",
+  "backend_sha256": "5adcf0271d8a1e361114ade4dccc8754751c658ae0f69d3d346dfe821a96e7da",
+  "frontend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.3/frontend.tar.gz.enc",
   "frontend_sha256": "cb977e1c053308765f063989276c54ec0411843759097ae435e9c240897a91b4",
-  "changelog": "Fixed onboarding flow: hostname selection now appears after user creation. Updated frontend and backend. Version bumped to 1.0.2 to ensure update from 1.0.0."
+  "changelog": "Fixed onboarding flow and added root privilege check for updates. Version 1.0.3."
 }
