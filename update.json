@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "backend_url": "https://votre-serveur.com/downloads/alcyone-backend",
+  "frontend_url": "https://votre-serveur.com/downloads/frontend.tar.gz",
+  "changelog": "Correction de bugs et ajout du support CLI."
+}
