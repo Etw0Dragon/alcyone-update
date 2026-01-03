@@ -1,9 +1,9 @@
 {
   "version": "1.0.12",
   "backend_url": "https://raw.githubusercontent.com/Etw0Dragon/alcyone-update/main/alcyone.enc",
-  "backend_sha256": "490c293c080c71a8c857d982e0aa74cb3291941d93e43bf74d4ecb6f7111a73d",
+  "backend_sha256": "9d5ff3630371b4a372a9ff2f60eea5b854f2968858f695a9bd5506dab11ff1fc",
   "frontend_url": "https://raw.githubusercontent.com/Etw0Dragon/alcyone-update/main/frontend.tar.gz.enc",
-  "frontend_sha256": "5c49426f4562e1f0ed8f2d04fa87018cffd1371254a8765d598c50a7d53fbe90",
+  "frontend_sha256": "8780f651194b758b5c7dc800c2e126930004b4bf7b048e4220eb097ea26ace32",
   "changelog": "Simplified activity menu to only show notifications.",
-  "signature": "c626a44d9284216495a4b9e7804eb2ed0f35e27d95e2f25f4916924edde7c1600f5292deaa78694bc10bea7f5aae7e23b6c6e87b4a18678e3c8b0783d81e880d"
+  "signature": "d2f55529fccebe819f745bc0c41e9365b44e9d0847379e415af755bdaae7298a9513f5f6b1b5ce7f4206b80b75fac4d33670847d06cc8fbb422a2802c662f90f"
 }
