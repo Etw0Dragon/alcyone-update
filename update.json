@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "backend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.4/alcyone-backend.enc",
-  "backend_sha256": "b286c88027c59e045d334fccb450a113434680db3546b208b83b42ae9f24f85d",
-  "frontend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.4/frontend.tar.gz.enc",
-  "frontend_sha256": "cb977e1c053308765f063989276c54ec0411843759097ae435e9c240897a91b4",
-  "changelog": "Fixed onboarding flow, added root check, and fixed permission issues with temporary files. Version 1.0.4."
+  "version": "1.0.9",
+  "backend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.9/alcyone-backend.enc",
+  "backend_sha256": "30e1dcd9340cfd2f2f2df1e118b7f03cd70ba1dc43e9a9f92e2bb41c71da06d9",
+  "frontend_url": "https://github.com/Etw0Dragon/alcyone-update/releases/download/V1.0.9/frontend.tar.gz.enc",
+  "frontend_sha256": "8bf895df741ad6ec3b68e725ab6f3ad21bef38e3b9c8c5569cb27d3b67a042ad",
+  "changelog": "Test update to v1.0.9. Includes version comparison fixes and language restrictions."
 }
