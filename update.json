@@ -1,9 +1,9 @@
 {
-  "version": "0.1.16",
+  "version": "1.0.16",
   "backend_url": "https://raw.githubusercontent.com/Etw0Dragon/alcyone-update/main/alcyone.enc",
-  "backend_sha256": "e4d752333dfe8fa39beb0b7f9992d3843573ba62b41eb7d33029e2be8cac9a4b",
+  "backend_sha256": "f0649a54ee1b91bd635b817df7fc1372ebceead6dc38045511304e2c9d272425",
   "frontend_url": "https://raw.githubusercontent.com/Etw0Dragon/alcyone-update/main/frontend.tar.gz.enc",
-  "frontend_sha256": "a893099ed98af5382adb7038a99ae6705248df83371ec1f77aea7c7ef3736f3c",
-  "changelog": "V0.1.16: password checks fixed (dev+root), full system access password prompt/enforcement, /data mapping fix, settings terminal action fixed.",
-  "signature": "49bef9fb578858de53939dc471536240ee14970582318b0abd30f3af62e0fb0bba8a11619e88d31da76d205638b856b7b02329e4545fef5606ff914ed951c201"
+  "frontend_sha256": "88ec598f0e279564835063ebc9c3deda2f4f17029dfee77b9d9b4e347f605e6d",
+  "changelog": "V0.1.16 (release 1.0.16): password checks fixed (dev+root), full system access password prompt/enforcement, /data mapping fix, settings terminal action fixed.",
+  "signature": "6a05d242f73dc9b6dc0b2f6b4136fe2c6759b582b2310dad42db1ab5fbd592deb1d32d0cb45c16319740efca93f45cedc46e8fbea8eeb5afd1d13ea681eb7704"
 }
